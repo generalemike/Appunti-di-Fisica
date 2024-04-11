@@ -1,0 +1,12 @@
+@media (max-width: 700px) {
+  .katex-display>.katex>.katex-html>.tag {
+    position:relative;
+    right:0;
+    margin-left: 10px;
+  }
+  .katex-display.leqno>.katex>.katex-html>.tag {
+    left:0;
+    right:auto;
+    margin-left: 10px;
+  }
+}
