@@ -6,12 +6,6 @@
       <description>Last 10 notes on ⚛️ Fisica</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Esercizi</title>
-    <link>https://quartz.jzhao.xyz/Struttura-Della-Materia/Molecole/Esercizi/</link>
-    <guid>https://quartz.jzhao.xyz/Struttura-Della-Materia/Molecole/Esercizi/</guid>
-    <description></description>
-    <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Esercizio 4</title>
     <link>https://quartz.jzhao.xyz/Struttura-Della-Materia/Molecole/Esercizi/Esercizio-4</link>
     <guid>https://quartz.jzhao.xyz/Struttura-Della-Materia/Molecole/Esercizi/Esercizio-4</guid>
@@ -65,6 +59,12 @@
     <guid>https://quartz.jzhao.xyz/Nucleare-E-Subnucleare/Nucleare/6-Stabilit%C3%A0-dei-Nuclei</guid>
     <description></description>
     <pubDate>Sun, 14 Apr 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>5 Modello a Gas di Fermi</title>
+    <link>https://quartz.jzhao.xyz/Nucleare-E-Subnucleare/Nucleare/5-Modelli-a-Particelle-Indipendenti</link>
+    <guid>https://quartz.jzhao.xyz/Nucleare-E-Subnucleare/Nucleare/5-Modelli-a-Particelle-Indipendenti</guid>
+    <description></description>
+    <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
